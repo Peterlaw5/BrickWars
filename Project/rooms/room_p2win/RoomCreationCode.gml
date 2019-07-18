@@ -1,0 +1,1 @@
+audio_play_sound(snd_ana_Win,0,true);
